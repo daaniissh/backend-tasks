@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "danish",
+    "email": "johndoe@example.com",
+    "password": "password",
+    "createdAt": "2023-05-18T10:45:00Z",
+    "updatedAt": "2023-05-18T10:45:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "janedoe@example.com",
+    "password": "password123",
+    "createdAt": "2023-05-18T10:46:00Z",
+    "updatedAt": "2023-05-18T10:46:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Peter Smith",
+    "email": "petersmith@example.com",
+    "password": "123456",
+    "createdAt": "2023-05-18T10:47:00Z",
+    "updatedAt": "2023-05-18T10:47:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Mary Johnson",
+    "email": "maryjohnson@example.com",
+    "password": "password789",
+    "createdAt": "2023-05-18T10:48:00Z",
+    "updatedAt": "2023-05-18T10:48:00Z"
+  },
+  {
+    "id": 5,
+    "name": "David Williams",
+    "email": "davidwilliams@example.com",
+    "password": "123456789",
+    "createdAt": "2023-05-18T10:49:00Z",
+    "updatedAt": "2023-05-18T10:49:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Susan Brown",
+    "email": "susanbrown@example.com",
+    "password": "password12345",
+    "createdAt": "2023-05-18T10:50:00Z",
+    "updatedAt": "2023-05-18T10:50:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Michael Jones",
+    "email": "michaeljones@example.com",
+    "password": "password1234567",
+    "createdAt": "2023-05-18T10:51:00Z",
+    "updatedAt": "2023-05-18T10:51:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Sarah Green",
+    "email": "sarahgreen@example.com",
+    "password": "password12345678",
+    "createdAt": "2023-05-18T10:52:00Z",
+    "updatedAt": "2023-05-18T10:52:00Z"
+  },
+  {
+    "id": 9,
+    "name": "William White",
+    "email": "williamwhite@example.com",
+    "password": "password123456789",
+    "createdAt": "2023-05-18T10:53:00Z",
+    "updatedAt": "2023-05-18T10:53:00Z"
+  }
+]
